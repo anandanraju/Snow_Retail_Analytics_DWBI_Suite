@@ -3,7 +3,7 @@ A Retail Analytics Project based on a Snowflake Schema design. It transforms raw
 
 ## 🧱 Data Model Overview
 
-This project uses a **Snowflake Schema** design — a normalized dimensional model where some dimension tables (like `DIM_CUSTOMER`) reference additional dimension tables (like `DIM_LOYALTY_INFO`) for better organization, flexibility, and data integrity.
+This project uses a normalized dimensional model where some dimension tables (like `DIM_CUSTOMER`) reference additional dimension tables (like `DIM_LOYALTY_INFO`) for better organization, flexibility, and data integrity.
 
 At the center of the model is the `FACT_ORDERS` table, which captures transactional sales data and is connected to multiple dimension tables.
 
