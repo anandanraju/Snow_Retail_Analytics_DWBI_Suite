@@ -32,8 +32,7 @@ Below is the BI Dashboard that illustrates the logical data visualisation of the
 
 **Dashboard Link**: <a href="https://app.powerbi.com/groups/me/reports/cb961f82-6d2a-460c-bd87-d350639ed122/97bda1644d9445211619?experience=power-bi" target="_blank">Snow Retail DWBI</a>
 
-
-<img width="1511" height="1007" alt="image" src="https://github.com/user-attachments/assets/366452af-8d59-4c66-92a9-65f7ffa76300" />
+<img width="1510" height="1010" alt="image" src="https://github.com/user-attachments/assets/bca30344-7ec9-4e9e-9eee-1f2e712c2fc2" />
 
 ## 📊 Tables and Their Roles
 
