@@ -20,6 +20,21 @@ At the center of the model is the `FACT_ORDERS` table, which captures transactio
 
 **Tools**: **`Oracle`, `Jupyter_Notebook`, `Excel`, `Snowflake_DB` ❄, `Power_BI`**  
 
+## 📐 Entity Relationship Diagram
+
+Below is the ER diagram that illustrates the logical data model for the retail analytics project:
+
+<img width="1501" height="830" alt="Final_Data_Model drawio (2)" src="https://github.com/user-attachments/assets/508b687c-c3ad-4e85-9532-cd1779b2dbe4" />
+
+## 🔹Sales Retail Analytics Dashboard
+
+Below is the BI Dashboard that illustrates the logical data visualisation of the Retail data analytics project:
+
+**Dashboard Link**: <a href="https://app.powerbi.com/groups/me/reports/cb961f82-6d2a-460c-bd87-d350639ed122/97bda1644d9445211619?experience=power-bi" target="_blank">Snow Retail DWBI</a>
+
+
+<img width="1511" height="1007" alt="image" src="https://github.com/user-attachments/assets/366452af-8d59-4c66-92a9-65f7ffa76300" />
+
 ## 📊 Tables and Their Roles
 
 #### 🔹 FACT_ORDERS 
@@ -67,18 +82,3 @@ Details of customer loyalty program participation.
   - `DIM_LOYALTY_INFO` via `Loyalty_Program_ID`
 
 This design ensures efficient slicing and dicing of sales data across different business perspectives like customer demographics, product hierarchy, store performance, and loyalty programs.
-
-## 📐 Entity Relationship Diagram
-
-Below is the ER diagram that illustrates the logical data model for the retail analytics project:
-
-<img width="1501" height="830" alt="Final_Data_Model drawio (2)" src="https://github.com/user-attachments/assets/508b687c-c3ad-4e85-9532-cd1779b2dbe4" />
-
-## 🔹Sales Retail Analytics Dashboard
-
-Below is the BI Dashboard that illustrates the logical data visualisation of the Retail data analytics project:
-
-**Dashboard Link**: <a href="https://app.powerbi.com/groups/me/reports/cb961f82-6d2a-460c-bd87-d350639ed122/97bda1644d9445211619?experience=power-bi" target="_blank">Snow Retail DWBI</a>
-
-
-<img width="1511" height="1007" alt="image" src="https://github.com/user-attachments/assets/366452af-8d59-4c66-92a9-65f7ffa76300" />
